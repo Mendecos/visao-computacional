@@ -3,6 +3,8 @@ Projeto criado para a disciplina **Fundamentos de Inteligência Artificial (FIA)
 
 **Visão Computacional implementada para detectar passaros, configurando o ambiente em Python com as com todas as dependecias necessarias**
 
+**O DetecPassaro combina OpenCV para processamento de imagens e TensorFlow para inferência, aplicando conceitos de Visão Computacional na detecção de características de gatos em cenários reais.**
+
 ## Configuração do Ambiente Virtual
 
 ### Passos para criar e ativar um ambiente virtual:
